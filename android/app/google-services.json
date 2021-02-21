@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145604006667",
+    "project_id": "flutterflow-a4c0e",
+    "storage_bucket": "flutterflow-a4c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145604006667:android:fb8633af0cafedd2fdc80e",
+        "android_client_info": {
+          "package_name": "com.flutterflow.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145604006667-7crh04k8jkbj7uhsgi57t05874qf5a8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXypTooO4R3kY59AN2QlnAi6UW-6tnvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145604006667-7crh04k8jkbj7uhsgi57t05874qf5a8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
